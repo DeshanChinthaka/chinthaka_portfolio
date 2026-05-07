@@ -47,7 +47,7 @@ export default function Navbar() {
           href="#hero"
           className="font-mono text-accent-cyan text-sm font-medium tracking-widest hover:opacity-80 transition-opacity"
         >
-          DC<span className="cursor">_</span>
+          Deshan Chinthaka<span className="cursor">_</span>
         </a>
 
         {/* Desktop Links */}
